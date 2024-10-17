@@ -42,8 +42,22 @@ Here are some of the LeetCode problems I have solved:
 1. **Two Sum**  
    - **Problem Link**: [Two Sum](https://leetcode.com/problems/two-sum/)
    - **Languages**: Java
-   - **Description**: Find two indices in an array such that their values sum to a specific target.
 
+2. **Palindrome Number**  
+   - **Problem Link**: [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+   - **Languages**: Java
+
+3. **Roman To Integer**  
+   - **Problem Link**: [Roman To Integer](https://leetcode.com/problems/roman-to-integer/)
+   - **Languages**: Java
+
+4. **Longest Common Prefix**  
+   - **Problem Link**: [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+   - **Languages**: Java
+
+5. **Valid Parentheses**  
+   - **Problem Link**: [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+   - **Languages**: Java
 
 *Note: This list is not exhaustive; I continue to solve more problems regularly.*
 
