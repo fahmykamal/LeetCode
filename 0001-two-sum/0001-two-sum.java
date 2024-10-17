@@ -2,10 +2,14 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();
 
+        // Iterate through array
         for (int i = 0; i < nums.length; i++){
+            // Calculate complement
             int complement = target - nums[i];
 
+            // Check compliment
             if (map.containsKey(complement)){
+                // If exists, return indices
                 return new int[] {map.get(complement), i };
             }
 
